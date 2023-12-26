@@ -1,0 +1,27 @@
+[
+   {
+    "title" : "Wanderlust",
+    "imgSrc": "projects/Screenshot (430).png",
+    "description" : "I have created this full-stack Website like airbnb type website in that I have used authentication authorization with the help of passport npm and I have also used MVC structure and deployed with MongoDB atlas and Cloudinary for cloud",
+    "skills":["Nodejs", "Expressjs", "EJS", "MongoDB"],
+    "github" : "https://github.com/DarshilChauhan1/WanderLustProject"
+   },
+
+   {
+    "title" : "WeatherAPP",
+    "imgSrc": "projects/Weather.png",
+    "description" : "I have created this Weather App using API's with the help of API ninjas in this I have used fetch method for the API requests and with the help of BootStrap I have created Responsive Weather app. They are much more funtionalities",
+    "skills":["Nodejs", "HTML", "CSS", "JavaScript", "BootStrap"],
+    "github" : "https://github.com/DarshilChauhan1/Weather-App"
+   },
+
+   {
+    "title" : "Simon-Says Game",
+    "imgSrc": "projects/Screenshot (433).png",
+    "description" : "I have created this intellectual game using only the concepts of JavaScript. In this it is mind testing memorization game we have to select the button as soon as it flash and in the upcoming rounds you have to follow the sequence",
+    "skills":["HTML", "CSS", "JavaScript"],
+    "github" : "https://github.com/DarshilChauhan1/Simon-Says-game"
+   }
+
+]
+
